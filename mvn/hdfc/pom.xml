@@ -3,7 +3,7 @@
 
   <groupId>in.com.hdfc</groupId>
   <artifactId>hdfc</artifactId>
-  <version>999.0</version>
+  <version>999.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>hdfc</name>
@@ -12,7 +12,7 @@
 		<url>https://github.com/samith212324/githubworkspace</url>
 		<connection>scm:git:git://github.com/samith212324/githubworkspace.git</connection>
 		<developerConnection>scm:git:git@github.com:samith212324/githubworkspace.git</developerConnection>
-	  <tag>99.99</tag>
+	  <tag>HEAD</tag>
   </scm>
   
   <properties>
