@@ -1,4 +1,12 @@
+<<<<<<< .mine
 -------------------------------------------------------------------------------
 Test set: in.com.groupmodule.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.021 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 sec
+||||||| .r0
+=======
+-------------------------------------------------------------------------------
+Test set: in.com.groupmodule.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 sec
+>>>>>>> .r110
