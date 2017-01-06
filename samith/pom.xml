@@ -3,7 +3,7 @@
 
   <groupId>in.com.groupmodule</groupId>
   <artifactId>module</artifactId>
-  <version>90.10-SNAPSHOT</version>
+  <version>98.100-SNAPSHOT</version>
   <packaging>jar</packaging>
 
     <scm>
