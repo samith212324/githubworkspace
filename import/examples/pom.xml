@@ -3,7 +3,7 @@
   
   <groupId>in.co.examples</groupId>
   <artifactId>examples</artifactId>
-  <version>8.9-SNAPSHOT</version>
+  <version>9.9</version>
   <packaging>jar</packaging>
 
   <name>examples</name>
@@ -13,7 +13,7 @@
 		<url>https://github.com/samith212324/githubworkspace</url>
 		<connection>scm:git:git://github.com/samith212324/githubworkspace.git</connection>
 		<developerConnection>scm:git:git@github.com:samith212324/githubworkspace.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>99.9</tag>
   </scm>
   
     <properties>
